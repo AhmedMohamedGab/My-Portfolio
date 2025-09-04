@@ -177,7 +177,8 @@ html {
   box-shadow: 0 15px 40px var(--shadow-color);
 }
 
-.project-links {
+.project-links,
+.project-stack {
   display: flex;
   gap: 5px;
   margin: 10px;
@@ -341,6 +342,10 @@ html {
     padding: 3rem 0;
   }
 
+  .lead {
+    font-size: 1rem;
+  }
+
   .skills-category-title {
     font-size: 1.3rem;
   }
@@ -352,11 +357,15 @@ html {
   }
 
   .hero-subtitle {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 
   .section-title {
     font-size: 2rem;
+  }
+
+  .lead {
+    font-size: 0.8rem;
   }
 
   .project-links {
