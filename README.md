@@ -1,13 +1,27 @@
-Hello guys!
-I'm Ahmed Gaballah, a software engineer passionate about Full-Stack development.
+Ahmed Gaballah — Portfolio
 
-Welcome to my potfolio. It shows everything about me:
+Full‑Stack software engineer. This repository contains a simple static portfolio site showcasing my summary, skills, projects, and contact details.
+
+Contents
 
 - Summary
 - Skills
-- Education
 - Projects
-- Courses and Certifications
-- Contact me
+- Education
+- Courses & Certifications
+- Contact
 
-You can take the template with pleasure ☺️
+How to view
+
+- Click this link to view the portfolio hosted by netlify `[text](https://ahmedgaballah.netlify.app)`
+- Open `index.html` in a browser, or serve the folder with a static server (for example: `python -m http.server 8000` or `npx serve .`).
+
+Contact
+
+- Website: https://ahmedgaballah.netlify.app
+- GitHub: https://github.com/AhmedMohamedGab
+- Email: ahmedgaballah055@gmail.com
+
+License
+
+- MIT
